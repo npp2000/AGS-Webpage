@@ -11,7 +11,7 @@ This project handles the school's public-facing website, including school inform
 The frontend is built with React, Vite and Tailwind CSS. The production website is hosted on Bluehost.
 This will be the single source of truth for the agsedu.org domain. 
 This repository maintains full autonomy of the website.
-Only authorizsd collaborators with write access can make reviews and changes to this repository
+Only authorized collaborators with write access can make reviews and changes to this repository
 
 ## Running locally
 
