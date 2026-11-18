@@ -1,0 +1,27 @@
+@import url("https://fonts.googleapis.com/css2?family=Montserrat:wght@700;800&display=swap");
+@import "tailwindcss";
+
+@theme {
+  --font-sans: "Outfit", sans-serif;
+}
+
+html {
+  scroll-behavior: smooth;
+  font-family: "Outfit", sans-serif;
+}
+
+body {
+  min-width: 320px;
+  background: #071427;
+  color: #e8f1ff;
+  font-family: "Outfit", sans-serif;
+  font-size: 28px;
+}
+
+* {
+  font-family: "Outfit", sans-serif !important;
+}
+
+#root {
+  min-height: 100svh;
+}
